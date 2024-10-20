@@ -1,5 +1,6 @@
 
 
+
 let num = 18;
 let square = num * num;
 
@@ -8,6 +9,7 @@ if (square > 100) {
 } else {
   console.log("ნაკლებია ასზე");
 }
+
 
  
 let number = 75; 
