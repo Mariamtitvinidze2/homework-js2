@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(157, 83, 230);
+}
+
+
+.styled-link {
+    background-color: #f058b6;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.styled-link:hover {
+    background-color: #ea55b6;
+}
