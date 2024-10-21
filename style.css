@@ -10,10 +10,8 @@ body {
     justify-content: center;
     align-items: center;
     
-    
+    height: 100vh;
    
-width: 1440px;
-height: 1080px;
 padding: 219px 256px 220px 256px;
 background: var(--Pale-Navy, #36384D);
 }
