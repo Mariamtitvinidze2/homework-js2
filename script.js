@@ -1,6 +1,3 @@
-
-
-
 let num = 18;
 let square = num * num;
 
